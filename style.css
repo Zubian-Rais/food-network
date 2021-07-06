@@ -74,20 +74,24 @@ p{
     width: 90%
 }
 
+.name{
+    font-weight: 700;
+}
+
 .shang{
     padding-left: 150px;
 }
 
 .s-description{
-    padding-top: 150px;
+    padding-top: 190px;
     padding-right: 80px;
 }
 
-.name{
-    font-weight: 700;
+.t-description{
+    padding-top: 280px;
+    padding-left: 90px;
 }
 
-.t-description{
-    padding-top: 220px;
-    padding-left: 80px;
+.m-description{
+    padding-top: 230px;
 }
