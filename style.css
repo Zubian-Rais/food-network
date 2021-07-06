@@ -5,11 +5,11 @@ body{
 
 .flexible-container{
     display: flex;
-    margin-bottom: 120px;
 }
 
 .hero{
     padding-top: 50px;
+    margin-bottom: 120px;
 }
 
 .header{
@@ -22,6 +22,14 @@ h1{
     font-weight: 700;
     color: #575757;
     padding-bottom: 30px;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #575757;
+    text-align: center;
+    padding-bottom: 70px;
 }
 
 span{
@@ -54,10 +62,14 @@ p{
     width: 40%;
 }
 
-.half-width img{
-    width: 103%;
+.healthy{
+    width: 100%;
 }
 
 .banner{
     padding-left: 40px;
+}
+
+.chefs{
+    width: 90%
 }
