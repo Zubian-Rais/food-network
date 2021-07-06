@@ -154,6 +154,10 @@ p{
     box-shadow: 10px 10px 30px gray;
 }
 
+.recipes{
+    margin-bottom: 40px;
+}
+
 .recipe-head{
     padding-bottom: 0;
 }
@@ -185,4 +189,17 @@ p{
     padding-left: 25px;
     padding-right: 25px;
     text-align: center;
+}
+
+.footer{
+    background-color: #0b0d17;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 0;
+}
+
+footer p{
+    background-color: #0b0d17;
+    text-align: center;
+    padding-bottom: 40px;
 }
