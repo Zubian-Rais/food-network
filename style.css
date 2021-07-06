@@ -145,6 +145,7 @@ p{
 
 .service-box{
     width: 25%;
+    border-radius: 10px;
     margin-left: 1%;
     margin-right: 1%;
     margin-bottom: 2%;
@@ -194,12 +195,15 @@ p{
 .footer{
     background-color: #0b0d17;
     padding-top: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     margin-bottom: 0;
+}
+
+.footer h3{
+    font-size: 35px;
 }
 
 footer p{
     background-color: #0b0d17;
     text-align: center;
-    padding-bottom: 40px;
 }
